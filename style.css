@@ -45,3 +45,6 @@ body{
 h6{
     color: var(--Red);
 }
+.section-2{
+    background-color:var(--Rose100);
+}
